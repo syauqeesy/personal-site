@@ -1,9 +1,9 @@
-import DropdownButton from "./navbar/DropDownButton";
+import NavbarDropdownButton from "./navbar/DropDownButton";
 import NavbarItem from "./navbar/Item";
 
-function Header() {
+function Navbar() {
   return (
-    <header className="p-2.5 md:px-20 bg-black">
+    <nav className="navbar p-2.5 md:px-20 bg-black">
       <ul className="flex justify-between">
         <NavbarItem className="font-bold" children="Ahmad Syauqi" />
 
@@ -15,12 +15,12 @@ function Header() {
 
         <div className="flex flex-col justify-center md:hidden">
           <NavbarItem>
-            <DropdownButton />
+            <NavbarDropdownButton />
           </NavbarItem>
         </div>
       </ul>
-    </header>
+    </nav>
   );
 }
 
-export default Header;
+export default Navbar;
