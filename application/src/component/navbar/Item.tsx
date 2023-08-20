@@ -1,9 +1,9 @@
 type ItemProps = {
-  className?: string;
   children: JSX.Element | string;
+  className?: string;
 };
 
-function Item({ className, children }: ItemProps) {
+function Item({ children, className }: ItemProps) {
   return (
     <li
       className={`navbar-item block text-white cursor-pointer ${
