@@ -1,4 +1,4 @@
-import NavbarDropdownButton from "./navbar/DropDownButton";
+import NavbarDropdownButton from "./navbar/DropdownButton";
 import NavbarItem from "./navbar/Item";
 
 function Navbar() {
