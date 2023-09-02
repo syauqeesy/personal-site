@@ -10,7 +10,7 @@ function App() {
             <span className="block lg:font-bold lg:text-7xl lg:mb-10">
               I&apos;m a Full-stack Developer,
             </span>
-            <span className="block text-slate-800 lg:text-5xl">
+            <span className="block lg:text-5xl">
               I love to build amazing apps.
             </span>
           </h1>
