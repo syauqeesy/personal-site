@@ -24,7 +24,7 @@ function App() {
           target="_blank"
         >
           <i className="bi bi-instagram cursor-pointer lg:text-2xl"></i>{" "}
-          instagram.
+          Instagram.
         </a>
         <a
           href="https://linkedin.com/in/syauqeesy"
@@ -39,7 +39,7 @@ function App() {
           className="underline lg:ml-16"
           target="_blank"
         >
-          <i className="bi bi-github cursor-pointer lg:text-2xl"></i> Github.
+          <i className="bi bi-github cursor-pointer lg:text-2xl"></i> GitHub.
         </a>
       </div>
     </div>
