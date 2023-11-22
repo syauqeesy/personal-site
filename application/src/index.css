@@ -5,3 +5,7 @@
 /* * {
   border: 1px solid blue;
 } */
+
+div.app {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
