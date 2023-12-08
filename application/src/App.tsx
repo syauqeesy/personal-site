@@ -8,7 +8,7 @@ function App() {
         <div>
           <h1>
             <span className="block lg:font-bold lg:text-6xl lg:mb-10">
-              I&apos;m a Full-stack Developer,
+              I&apos;m a Software Engineer,
             </span>
             <span className="block lg:font-medium lg:text-4xl">
               I love to build amazing apps.
