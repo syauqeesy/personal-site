@@ -59,7 +59,7 @@ function App() {
                   PT Investasi Cerdas Bersama
                 </p>
                 <p className="lg:text-slate-600 lg:text-sm">
-                  Full-stack Developer | Sept. 2022 - Present
+                  Full-stack Developer | Sept. 2022 - Dec. 2023
                 </p>
               </div>
             </div>
