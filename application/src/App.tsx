@@ -34,7 +34,7 @@ function App() {
             LinkedIn.
           </a>
           <a
-            href="https://github.com/bee-hoon"
+            href="https://github.com/syauqeesy"
             className="underline lg:ml-16"
             target="_blank"
           >
